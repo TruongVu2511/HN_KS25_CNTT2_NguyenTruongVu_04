@@ -215,4 +215,6 @@ def main():
                         search_by_id(list_bill)
                     case 2:
                         search_by_name(list_bill)
+            case 6:
+                display_total_price()
 main()
